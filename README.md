@@ -9,6 +9,5 @@ A UX/UI Designer focused on creating attractive and functional interfaces that c
 💻Connect with me
 
 <a href="https://www.linkedin.com/in/aracelivg/">
-    <img src="![image](https://github.com/user-attachments/assets/66476c29-6f79-4be5-b814-e7a34c37a106)
-" alt="LinkedIn" width="30" />
+    <img src="https://i.pinimg.com/564x/0c/54/79/0c5479e1eeca3d119c2f9bbb90ce80a6.jpg" width="30" />
 </a>
