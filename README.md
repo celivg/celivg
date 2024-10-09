@@ -11,3 +11,8 @@ A UX/UI Designer focused on creating attractive and functional interfaces that c
 <a href="https://www.linkedin.com/in/aracelivg/">
     <img src="https://i.pinimg.com/564x/0c/54/79/0c5479e1eeca3d119c2f9bbb90ce80a6.jpg" width="30" />
 </a>
+
+<a href="https://www.linkedin.com/in/aracelivg/">
+    <img src="hhttps://img.freepik.com/vector-premium/ilustracion-icono-behance-logotipo-aplicacion-behance-icono-redes-sociales_561158-3664.jpg" width="30" />
+</a>
+
