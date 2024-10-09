@@ -6,13 +6,6 @@ A UX/UI Designer focused on creating attractive and functional interfaces that c
 📫 Feel free to reach me at ux.araceli@gmail.com for collaboration or inquiries!
 
 
-💻Connect with me in
+[LinkedIn](https://www.linkedin.com/in/aracelivg/) | [Behance](https://www.behance.net/aracvera) | [Dribble](https://dribbble.com/celivg)
 
-<a href="https://www.linkedin.com/in/aracelivg/" style="text-decoration: none;">
-    <img src="https://i.pinimg.com/564x/0c/54/79/0c5479e1eeca3d119c2f9bbb90ce80a6.jpg" width="30" />
-</a>
-
-<a href="https://www.behance.net/aracvera" style="text-decoration: none;">
-    <img src="https://play-lh.googleusercontent.com/bvaTHCfTJohpSWFgjXouNkNsVFnC5ssfdaurQzCvPnzBtflEwOEi5vq2vopY4Miv4lI=w170" width="30" />
-</a>
 
