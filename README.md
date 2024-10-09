@@ -1,5 +1,5 @@
 ## Hi! I'm Celi 💖 
-A UX/UI designer based in Chile and currently studying Front End Development. 
+A UX/UI designer based in Chile and currently studying Front End Development.👩🏻‍💻
 
 This year, I graduated from Duoc UC with a degree in Graphic Design, specializing in UX/UI.✨
 
