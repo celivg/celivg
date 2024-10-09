@@ -6,9 +6,9 @@ A UX/UI Designer focused on creating attractive and functional interfaces that c
 📫 Feel free to reach me at ux.araceli@gamil.com for collaboration or inquiries!
 
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/aracelivg/)
-
+💻Connect with me
 
 <a href="https://www.linkedin.com/in/aracelivg/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="30" />
+    <img src="![image](https://github.com/user-attachments/assets/66476c29-6f79-4be5-b814-e7a34c37a106)
+" alt="LinkedIn" width="30" />
 </a>
