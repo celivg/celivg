@@ -13,6 +13,6 @@ A UX/UI Designer focused on creating attractive and functional interfaces that c
 </a>
 
 <a href="https://www.linkedin.com/in/aracelivg/">
-    <img src="https://play-lh.googleusercontent.com/bvaTHCfTJohpSWFgjXouNkNsVFnC5ssfdaurQzCvPnzBtflEwOEi5vq2vopY4Miv4lI=w170" width="50" />
+    <img src="https://play-lh.googleusercontent.com/bvaTHCfTJohpSWFgjXouNkNsVFnC5ssfdaurQzCvPnzBtflEwOEi5vq2vopY4Miv4lI=w170" width="30" />
 </a>
 
