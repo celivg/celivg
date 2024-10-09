@@ -3,10 +3,10 @@ A UX/UI Designer focused on creating attractive and functional interfaces that c
 
 🌱 I'm expanding my skills in front-end development, specializing in Vue.js.
 
-📫 Feel free to reach me at ux.araceli@gamil.com for collaboration or inquiries!
+📫 Feel free to reach me at ux.araceli@gmail.com for collaboration or inquiries!
 
 
-💻Connect with me
+💻Connect with me in
 
 <a href="https://www.linkedin.com/in/aracelivg/" style="text-decoration: none;">
     <img src="https://i.pinimg.com/564x/0c/54/79/0c5479e1eeca3d119c2f9bbb90ce80a6.jpg" width="30" />
