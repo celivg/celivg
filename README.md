@@ -5,8 +5,8 @@ This year, I graduated from Duoc UC with a degree in Graphic Design, specializin
 
 I enjoy enhancing my skills to contribute quality to the projects I work on, which is why I constantly seek to learn new things and share ideas and insights with others.
 
-📫 Feel free to reach me in:
+📫 Feel free to reach me in: [LinkedIn](https://www.linkedin.com/in/aracelivg/) | [Behance](https://www.behance.net/aracvera) | [Dribble](https://dribbble.com/celivg)
 
-[LinkedIn](https://www.linkedin.com/in/aracelivg/) | [Behance](https://www.behance.net/aracvera) | [Dribble](https://dribbble.com/celivg)
+
 
 
