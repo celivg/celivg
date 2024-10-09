@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello! 👋, I'm Araceli Vera 🌸
+A UX/UI Designer focused on creating attractive and functional interfaces that captivate users from the very first click.
 
-<!--
-**celivg/celivg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm expanding my skills in front-end development, specializing in Vue.js.
 
-Here are some ideas to get you started:
+📫 Feel free to reach me at ux.araceli@gamil.com for collaboration or inquiries!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/aracelivg/)
+
+
+<a href="https://www.linkedin.com/in/aracelivg/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="30" />
+</a>
